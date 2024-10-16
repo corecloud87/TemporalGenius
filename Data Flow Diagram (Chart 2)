@@ -1,0 +1,14 @@
+Time Genius Platform
+ ├──> User Data
+ │     ├──> Personal Information
+ │     └──> Activity Logs
+ │
+ ├──> AI Engine
+ │     ├──> Data Processing
+ │     ├──> Machine Learning
+ │     └──> Insight Generation
+ │
+ └──> Output
+       ├──> Schedules
+       ├──> Reports
+       └──> Recommendations
