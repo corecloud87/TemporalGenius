@@ -1,0 +1,12 @@
+User
+ │
+ ├──> Sign Up/Login
+ │
+ ├──> Dashboard
+ │     │
+ │     ├──> Schedule Management
+ │     ├──> Time Tracking
+ │     ├──> Productivity Analytics
+ │     └──> Personalized Recommendations
+ │
+ └──> Profile Settings
