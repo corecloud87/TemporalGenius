@@ -1,0 +1,24 @@
+Collect data from multiple sources to understand user behavior and preferences. This can include:
+
+  -  Calendar events
+
+  -  Task lists
+
+  -  Emails
+
+  -  User activity logs
+
+  -  Preferences and constraints (e.g., preferred work hours, breaks)
+Process the collected data to extract features that will be useful for the AI model. Some examples of features:
+
+  -  Task duration
+
+  -  Task priority
+
+  -  Task dependencies
+
+  -  User availability
+
+  -  Historical completion times
+
+  -  Recurring tasks
